@@ -1,0 +1,5 @@
+D:\Atividade Opcional, Algoritmos feitos em sala\08 - Aula do dia 26.04.2023\obj\Debug\net7.0\Aula do dia 26.04.2023.csproj.AssemblyReference.cache
+D:\Atividade Opcional, Algoritmos feitos em sala\08 - Aula do dia 26.04.2023\obj\Debug\net7.0\Aula do dia 26.04.2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atividade Opcional, Algoritmos feitos em sala\08 - Aula do dia 26.04.2023\obj\Debug\net7.0\Aula do dia 26.04.2023.AssemblyInfoInputs.cache
+D:\Atividade Opcional, Algoritmos feitos em sala\08 - Aula do dia 26.04.2023\obj\Debug\net7.0\Aula do dia 26.04.2023.AssemblyInfo.cs
+D:\Atividade Opcional, Algoritmos feitos em sala\08 - Aula do dia 26.04.2023\obj\Debug\net7.0\Aula do dia 26.04.2023.csproj.CoreCompileInputs.cache
